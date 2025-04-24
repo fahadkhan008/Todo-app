@@ -19,6 +19,6 @@ A simple and interactive **Command-Line ToDo App** built with **TypeScript**.
 ## 🛠️ How to Run
 
 1. **Clone the repository:**
-```bash```
+```bash
 git clone https://github.com/fahadkhan008/Todo-app.git
 cd todo-cli
